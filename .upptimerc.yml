@@ -8,6 +8,8 @@ sites:
     url: $CG_B_PROXY
   - name: CG-C-Proxy
     url: $CG_C_PROXY
+  - name: CG_C_S_STAT
+    url: $CG_C_S_STAT
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
