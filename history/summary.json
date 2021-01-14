@@ -4,9 +4,9 @@
     "url": "$CG_B_PROXY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cg-b-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 646,
     "timeMonth": 646,
     "timeYear": 646,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-14": 0
+    }
   },
   {
     "name": "CG-C-Proxy",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cg-c-proxy",
     "status": "up",
-    "uptime": "95.28%",
+    "uptime": "95.58%",
     "uptimeDay": "96.61%",
-    "uptimeWeek": "95.28%",
-    "uptimeMonth": "95.28%",
-    "uptimeYear": "95.28%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "95.58%",
+    "uptimeYear": "95.58%",
     "time": 606,
     "timeDay": 609,
     "timeWeek": 606,
