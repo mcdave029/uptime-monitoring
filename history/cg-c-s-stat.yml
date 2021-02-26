@@ -1,7 +1,7 @@
 url: $CG_C_S_STAT
-status: down
-code: 502
-responseTime: 648
-lastUpdated: 2021-02-26T08:49:28.382Z
+status: up
+code: 200
+responseTime: 1204
+lastUpdated: 2021-02-26T09:20:47.725Z
 startTime: Wed Jan 13 2021 14:42:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
