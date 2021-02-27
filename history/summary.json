@@ -55,9 +55,9 @@
     "slug": "cg-c-s-stat",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "95.05%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "94.85%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
     "time": 917,
     "timeDay": 2391,
@@ -65,7 +65,7 @@
     "timeMonth": 1009,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2021-02-27": 0,
+      "2021-02-27": 3,
       "2021-02-26": 71,
       "2021-02-24": 43,
       "2021-01-15": 56
