@@ -1,7 +1,7 @@
 url: $CG_B_PROXY
-status: down
-code: 504
-responseTime: 20702
-lastUpdated: 2021-03-23T16:03:05.968Z
+status: up
+code: 200
+responseTime: 958
+lastUpdated: 2021-03-23T16:41:03.043Z
 startTime: Fri Jan 08 2021 13:54:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
