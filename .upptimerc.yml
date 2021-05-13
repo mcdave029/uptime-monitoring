@@ -4,12 +4,15 @@ repo: uptime-monitoring # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: CG-B-Proxy
-    url: $CG_B_PROXY
-  - name: CG-C-Proxy
-    url: $CG_C_PROXY
-  - name: CG_C_S_STAT
-    url: $CG_C_S_STAT
+  - name: ChatGenie MiniApp
+    url: $CHATGENIE_BOT
+  - name: ChatGenie MiniApp API
+    url: $CHATGENIE_BOT_API
+  - name: ChatGenie Client
+    url: $CHATGENIE_CLIENT
+  - name: ChatGenie Client API
+    url: $CHATGENIE_CLIENT_API
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
