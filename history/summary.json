@@ -12,7 +12,7 @@
     "uptimeYear": "99.81%",
     "time": 721,
     "timeDay": 655,
-    "timeWeek": 693,
+    "timeWeek": 702,
     "timeMonth": 721,
     "timeYear": 721,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 732,
     "timeDay": 782,
-    "timeWeek": 725,
+    "timeWeek": 762,
     "timeMonth": 732,
     "timeYear": 732,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 703,
     "timeDay": 756,
-    "timeWeek": 770,
+    "timeWeek": 806,
     "timeMonth": 703,
     "timeYear": 703,
     "dailyMinutesDown": {}
@@ -60,12 +60,12 @@
     "url": "$CHATGENIE_CLIENT_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chat-genie-client-api",
-    "status": "up",
-    "uptime": "65.28%",
+    "status": "down",
+    "uptime": "65.52%",
     "uptimeDay": "39.02%",
-    "uptimeWeek": "52.16%",
-    "uptimeMonth": "65.28%",
-    "uptimeYear": "65.28%",
+    "uptimeWeek": "52.32%",
+    "uptimeMonth": "65.52%",
+    "uptimeYear": "65.52%",
     "time": 484,
     "timeDay": 473,
     "timeWeek": 488,
@@ -79,7 +79,7 @@
       "2021-05-19": 732,
       "2021-05-18": 597,
       "2021-05-17": 615,
-      "2021-05-16": 548
+      "2021-05-16": 517
     }
   }
 ]
