@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "95.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.81%",
+    "uptimeWeek": "89.30%",
     "uptimeMonth": "78.87%",
     "uptimeYear": "95.05%",
     "time": 1170,
@@ -91,23 +91,23 @@
     "slug": "chat-genie-client-api",
     "status": "down",
     "uptime": "97.96%",
-    "uptimeDay": "57.90%",
-    "uptimeWeek": "61.57%",
-    "uptimeMonth": "91.16%",
+    "uptimeDay": "55.94%",
+    "uptimeWeek": "61.43%",
+    "uptimeMonth": "91.12%",
     "uptimeYear": "97.96%",
     "time": 467,
-    "timeDay": 295,
+    "timeDay": 294,
     "timeWeek": 396,
     "timeMonth": 363,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2021-09-22": 238,
+      "2021-09-22": 272,
       "2021-09-21": 604,
       "2021-09-20": 877,
       "2021-09-19": 515,
       "2021-09-18": 534,
       "2021-09-17": 839,
-      "2021-09-16": 262
+      "2021-09-16": 243
     }
   }
 ]
