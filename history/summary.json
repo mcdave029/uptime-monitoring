@@ -97,11 +97,11 @@
     "url": "$CHATGENIE_CLIENT_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chat-genie-client-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "44.05%",
-    "uptimeWeek": "59.52%",
-    "uptimeMonth": "90.69%",
+    "uptimeDay": "44.68%",
+    "uptimeWeek": "59.71%",
+    "uptimeMonth": "90.73%",
     "uptimeYear": "99.00%",
     "time": 381,
     "timeDay": 310,
@@ -115,7 +115,7 @@
       "2022-02-17": 610,
       "2022-02-16": 688,
       "2022-02-15": 703,
-      "2022-02-14": 142
+      "2022-02-14": 123
     }
   }
 ]
