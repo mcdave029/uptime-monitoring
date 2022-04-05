@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.99%",
     "time": 867,
-    "timeDay": 663,
-    "timeWeek": 601,
-    "timeMonth": 584,
+    "timeDay": 742,
+    "timeWeek": 653,
+    "timeMonth": 595,
     "timeYear": 867,
     "dailyMinutesDown": {
       "2022-03-14": 19,
@@ -48,9 +48,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.65%",
     "time": 650,
-    "timeDay": 287,
-    "timeWeek": 332,
-    "timeMonth": 316,
+    "timeDay": 426,
+    "timeWeek": 352,
+    "timeMonth": 325,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2022-03-14": 19,
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 808,
-    "timeDay": 1276,
-    "timeWeek": 1211,
-    "timeMonth": 1155,
-    "timeYear": 808,
+    "time": 810,
+    "timeDay": 1281,
+    "timeWeek": 1247,
+    "timeMonth": 1164,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2022-03-14": 19,
       "2021-12-16": 38,
@@ -100,15 +100,15 @@
     "url": "$CHATGENIE_CLIENT_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chat-genie-client-api",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "52.85%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "53.61%",
     "uptimeWeek": "57.41%",
-    "uptimeMonth": "90.03%",
-    "uptimeYear": "99.07%",
+    "uptimeMonth": "90.07%",
+    "uptimeYear": "99.08%",
     "time": 367,
     "timeDay": 278,
-    "timeWeek": 273,
+    "timeWeek": 274,
     "timeMonth": 273,
     "timeYear": 367,
     "dailyMinutesDown": {
@@ -119,7 +119,7 @@
       "2022-04-01": 733,
       "2022-03-31": 589,
       "2022-03-30": 594,
-      "2022-03-29": 106
+      "2022-03-29": 88
     }
   }
 ]
