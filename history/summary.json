@@ -101,12 +101,12 @@
     "url": "$CHATGENIE_CLIENT_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chat-genie-client-api",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "60.00%",
-    "uptimeWeek": "54.21%",
-    "uptimeMonth": "89.46%",
-    "uptimeYear": "99.11%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "59.98%",
+    "uptimeWeek": "55.02%",
+    "uptimeMonth": "89.65%",
+    "uptimeYear": "99.13%",
     "time": 358,
     "timeDay": 264,
     "timeWeek": 265,
@@ -120,7 +120,7 @@
       "2022-05-06": 749,
       "2022-05-05": 537,
       "2022-05-04": 882,
-      "2022-05-03": 100
+      "2022-05-03": 17
     }
   }
 ]
