@@ -42,7 +42,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chat-genie-mini-app-api",
     "status": "up",
-    "uptime": "98.78%",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -101,15 +101,15 @@
     "url": "$CHATGENIE_CLIENT_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chat-genie-client-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "54.43%",
-    "uptimeWeek": "50.28%",
-    "uptimeMonth": "87.91%",
-    "uptimeYear": "98.99%",
+    "uptimeDay": "58.20%",
+    "uptimeWeek": "50.81%",
+    "uptimeMonth": "88.00%",
+    "uptimeYear": "99.00%",
     "time": 358,
-    "timeDay": 264,
-    "timeWeek": 264,
+    "timeDay": 267,
+    "timeWeek": 265,
     "timeMonth": 269,
     "timeYear": 357,
     "dailyMinutesDown": {
@@ -120,7 +120,7 @@
       "2022-05-10": 585,
       "2022-05-09": 834,
       "2022-05-08": 559,
-      "2022-05-07": 483
+      "2022-05-07": 447
     }
   }
 ]
