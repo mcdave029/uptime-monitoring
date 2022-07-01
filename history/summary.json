@@ -13,7 +13,7 @@
     "time": 800,
     "timeDay": 408,
     "timeWeek": 520,
-    "timeMonth": 550,
+    "timeMonth": 554,
     "timeYear": 760,
     "dailyMinutesDown": {
       "2022-06-30": 115,
@@ -49,7 +49,7 @@
     "time": 606,
     "timeDay": 214,
     "timeWeek": 289,
-    "timeMonth": 511,
+    "timeMonth": 516,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2022-06-30": 115,
@@ -88,7 +88,7 @@
     "time": 879,
     "timeDay": 719,
     "timeWeek": 921,
-    "timeMonth": 1056,
+    "timeMonth": 1052,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2022-06-30": 115,
@@ -106,9 +106,9 @@
     "slug": "chat-genie-client-api",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "45.73%",
-    "uptimeWeek": "53.08%",
-    "uptimeMonth": "87.68%",
+    "uptimeDay": "55.41%",
+    "uptimeWeek": "53.17%",
+    "uptimeMonth": "87.63%",
     "uptimeYear": "98.97%",
     "time": 331,
     "timeDay": 271,
@@ -116,7 +116,7 @@
     "timeMonth": 278,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2022-06-30": 780,
+      "2022-06-30": 771,
       "2022-06-29": 613,
       "2022-06-28": 607,
       "2022-06-27": 577,
@@ -124,7 +124,7 @@
       "2022-06-25": 871,
       "2022-06-24": 605,
       "2022-06-23": 664,
-      "2022-06-22": 2
+      "2022-06-22": 36
     }
   }
 ]
