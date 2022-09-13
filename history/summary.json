@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chat-genie-mini-app",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.13%",
     "time": 777,
-    "timeDay": 1061,
-    "timeWeek": 683,
-    "timeMonth": 643,
+    "timeDay": 575,
+    "timeWeek": 698,
+    "timeMonth": 639,
     "timeYear": 684,
     "dailyMinutesDown": {
       "2022-07-01": 17,
@@ -25,8 +25,7 @@
       "2021-10-21": 19,
       "2021-09-16": 157,
       "2021-09-15": 1440,
-      "2021-09-14": 1440,
-      "2021-09-13": 1440
+      "2021-09-14": 1440
     }
   },
   {
@@ -39,12 +38,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.66%",
-    "time": 618,
-    "timeDay": 569,
-    "timeWeek": 476,
-    "timeMonth": 1164,
-    "timeYear": 533,
+    "uptimeYear": "99.70%",
+    "time": 617,
+    "timeDay": 256,
+    "timeWeek": 454,
+    "timeMonth": 1165,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2022-08-13": 15,
       "2022-07-01": 17,
@@ -57,8 +56,7 @@
       "2021-10-20": 19,
       "2021-09-30": 21,
       "2021-09-18": 41,
-      "2021-09-16": 94,
-      "2021-09-13": 1310
+      "2021-09-16": 94
     }
   },
   {
@@ -72,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.78%",
-    "time": 918,
-    "timeDay": 1263,
-    "timeWeek": 1184,
-    "timeMonth": 1154,
-    "timeYear": 994,
+    "time": 919,
+    "timeDay": 1137,
+    "timeWeek": 1209,
+    "timeMonth": 1159,
+    "timeYear": 995,
     "dailyMinutesDown": {
       "2022-08-13": 22,
       "2022-07-14": 239,
@@ -97,17 +95,17 @@
     "slug": "chat-genie-client-api",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "53.83%",
-    "uptimeWeek": "49.17%",
-    "uptimeMonth": "86.00%",
+    "uptimeDay": "64.87%",
+    "uptimeWeek": "51.02%",
+    "uptimeMonth": "85.99%",
     "uptimeYear": "98.83%",
     "time": 302,
-    "timeDay": 832,
-    "timeWeek": 351,
+    "timeDay": 875,
+    "timeWeek": 352,
     "timeMonth": 318,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2022-09-12": 662,
+      "2022-09-12": 649,
       "2022-09-11": 853,
       "2022-09-10": 718,
       "2022-09-09": 883,
@@ -115,7 +113,7 @@
       "2022-09-07": 761,
       "2022-09-06": 671,
       "2022-09-05": 957,
-      "2022-09-04": 83
+      "2022-09-04": 101
     }
   }
 ]
