@@ -13,7 +13,7 @@
     "time": 714,
     "timeDay": 552,
     "timeWeek": 543,
-    "timeMonth": 561,
+    "timeMonth": 563,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2022-10-23": 479,
@@ -41,7 +41,7 @@
     "time": 586,
     "timeDay": 253,
     "timeWeek": 337,
-    "timeMonth": 418,
+    "timeMonth": 421,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2022-10-23": 452,
@@ -72,7 +72,7 @@
     "time": 964,
     "timeDay": 1205,
     "timeWeek": 1134,
-    "timeMonth": 1117,
+    "timeMonth": 1120,
     "timeYear": 1053,
     "dailyMinutesDown": {
       "2022-08-13": 22,
@@ -92,18 +92,19 @@
     "url": "$CHATGENIE_CLIENT_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-genie-client-api",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "44.50%",
-    "uptimeWeek": "50.28%",
-    "uptimeMonth": "85.97%",
-    "uptimeYear": "98.83%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "50.08%",
+    "uptimeWeek": "51.23%",
+    "uptimeMonth": "86.11%",
+    "uptimeYear": "98.84%",
     "time": 300,
     "timeDay": 265,
     "timeWeek": 264,
     "timeMonth": 264,
     "timeYear": 300,
     "dailyMinutesDown": {
+      "2022-10-31": 0,
       "2022-10-30": 799,
       "2022-10-29": 629,
       "2022-10-28": 911,
@@ -112,8 +113,7 @@
       "2022-10-25": 778,
       "2022-10-24": 578,
       "2022-10-23": 480,
-      "2022-10-22": 659,
-      "2022-10-21": 8
+      "2022-10-22": 606
     }
   }
 ]
