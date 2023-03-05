@@ -101,23 +101,23 @@
     "slug": "chat-genie-client-api",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "54.15%",
-    "uptimeWeek": "61.42%",
-    "uptimeMonth": "91.12%",
-    "uptimeYear": "99.26%",
+    "uptimeDay": "54.80%",
+    "uptimeWeek": "60.96%",
+    "uptimeMonth": "91.02%",
+    "uptimeYear": "99.25%",
     "time": 298,
     "timeDay": 246,
     "timeWeek": 273,
     "timeMonth": 281,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-03-04": 661,
+      "2023-03-04": 652,
       "2023-03-03": 615,
       "2023-03-02": 538,
       "2023-03-01": 444,
       "2023-02-28": 736,
       "2023-02-27": 583,
-      "2023-02-26": 311
+      "2023-02-26": 367
     }
   }
 ]
