@@ -1,7 +1,7 @@
 url: $CHATGENIE_BOT_API
-status: down
-code: 503
-responseTime: 190
-lastUpdated: 2023-04-25T03:45:10.716Z
+status: up
+code: 200
+responseTime: 683
+lastUpdated: 2023-04-25T04:38:49.784Z
 startTime: Thu May 13 2021 07:19:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
