@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 634,
-    "timeDay": 776,
-    "timeWeek": 818,
-    "timeMonth": 706,
+    "timeDay": 638,
+    "timeWeek": 826,
+    "timeMonth": 697,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2023-03-21": 19,
@@ -39,23 +39,23 @@
     "slug": "chat-genie-mini-app-api",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "39.78%",
-    "uptimeWeek": "62.53%",
-    "uptimeMonth": "91.38%",
+    "uptimeDay": "40.43%",
+    "uptimeWeek": "62.23%",
+    "uptimeMonth": "91.31%",
     "uptimeYear": "99.28%",
     "time": 504,
-    "timeDay": 610,
-    "timeWeek": 575,
+    "timeDay": 612,
+    "timeWeek": 576,
     "timeMonth": 533,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2023-05-01": 824,
+      "2023-05-01": 816,
       "2023-04-30": 577,
       "2023-04-29": 608,
       "2023-04-28": 500,
       "2023-04-27": 652,
       "2023-04-26": 613,
-      "2023-04-25": 4
+      "2023-04-25": 43
     }
   },
   {
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 1125,
-    "timeDay": 1156,
-    "timeWeek": 1176,
-    "timeMonth": 1142,
+    "timeDay": 981,
+    "timeWeek": 1182,
+    "timeMonth": 1132,
     "timeYear": 1113,
     "dailyMinutesDown": {
       "2022-08-13": 22,
@@ -89,15 +89,15 @@
     "url": "$CHATGENIE_CLIENT_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-genie-client-api",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "60.64%",
-    "uptimeWeek": "63.51%",
-    "uptimeMonth": "91.60%",
-    "uptimeYear": "99.30%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "60.69%",
+    "uptimeWeek": "63.77%",
+    "uptimeMonth": "91.66%",
+    "uptimeYear": "99.31%",
     "time": 296,
-    "timeDay": 268,
-    "timeWeek": 277,
+    "timeDay": 269,
+    "timeWeek": 278,
     "timeMonth": 266,
     "timeYear": 296,
     "dailyMinutesDown": {
@@ -107,7 +107,7 @@
       "2023-04-28": 572,
       "2023-04-27": 635,
       "2023-04-26": 634,
-      "2023-04-25": 49
+      "2023-04-25": 22
     }
   }
 ]
