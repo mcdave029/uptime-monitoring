@@ -37,12 +37,12 @@
     "url": "$CHATGENIE_BOT_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-genie-mini-app-api",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "45.28%",
-    "uptimeWeek": "64.08%",
-    "uptimeMonth": "91.73%",
-    "uptimeYear": "99.31%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "45.26%",
+    "uptimeWeek": "64.35%",
+    "uptimeMonth": "91.80%",
+    "uptimeYear": "99.32%",
     "time": 491,
     "timeDay": 465,
     "timeWeek": 464,
@@ -55,7 +55,7 @@
       "2023-05-25": 608,
       "2023-05-24": 416,
       "2023-05-23": 378,
-      "2023-05-22": 350
+      "2023-05-22": 322
     }
   },
   {
@@ -90,11 +90,11 @@
     "url": "$CHATGENIE_CLIENT_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-genie-client-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "71.71%",
-    "uptimeWeek": "64.60%",
-    "uptimeMonth": "91.86%",
+    "uptimeDay": "71.74%",
+    "uptimeWeek": "64.77%",
+    "uptimeMonth": "91.89%",
     "uptimeYear": "99.32%",
     "time": 301,
     "timeDay": 1264,
@@ -108,7 +108,7 @@
       "2023-05-25": 589,
       "2023-05-24": 800,
       "2023-05-23": 609,
-      "2023-05-22": 80
+      "2023-05-22": 63
     }
   }
 ]
