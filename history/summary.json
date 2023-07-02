@@ -12,9 +12,9 @@
     "uptimeYear": "99.73%",
     "time": 623,
     "timeDay": 480,
-    "timeWeek": 527,
-    "timeMonth": 551,
-    "timeYear": 638,
+    "timeWeek": 526,
+    "timeMonth": 549,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2023-03-21": 19,
       "2023-01-24": 25,
@@ -33,16 +33,16 @@
     "url": "$CHATGENIE_BOT_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-genie-mini-app-api",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "53.43%",
-    "uptimeWeek": "60.33%",
-    "uptimeMonth": "90.87%",
-    "uptimeYear": "99.24%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "53.79%",
+    "uptimeWeek": "60.77%",
+    "uptimeMonth": "90.97%",
+    "uptimeYear": "99.25%",
     "time": 651,
-    "timeDay": 2242,
-    "timeWeek": 1386,
-    "timeMonth": 1223,
+    "timeDay": 2209,
+    "timeWeek": 1383,
+    "timeMonth": 1221,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2023-07-02": 649,
@@ -51,7 +51,7 @@
       "2023-06-29": 509,
       "2023-06-28": 585,
       "2023-06-27": 731,
-      "2023-06-26": 90
+      "2023-06-26": 45
     }
   },
   {
@@ -67,7 +67,7 @@
     "uptimeYear": "99.82%",
     "time": 1121,
     "timeDay": 925,
-    "timeWeek": 1112,
+    "timeWeek": 1108,
     "timeMonth": 1136,
     "timeYear": 1121,
     "dailyMinutesDown": {
@@ -82,12 +82,12 @@
     "url": "$CHATGENIE_CLIENT_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-genie-client-api",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "42.09%",
-    "uptimeWeek": "61.19%",
-    "uptimeMonth": "91.07%",
-    "uptimeYear": "99.26%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "42.07%",
+    "uptimeWeek": "61.68%",
+    "uptimeMonth": "91.18%",
+    "uptimeYear": "99.27%",
     "time": 300,
     "timeDay": 301,
     "timeWeek": 284,
@@ -99,7 +99,7 @@
       "2023-06-30": 638,
       "2023-06-29": 755,
       "2023-06-28": 669,
-      "2023-06-27": 445
+      "2023-06-27": 396
     }
   }
 ]
