@@ -13,7 +13,7 @@
     "time": 621,
     "timeDay": 455,
     "timeWeek": 553,
-    "timeMonth": 547,
+    "timeMonth": 548,
     "timeYear": 639,
     "dailyMinutesDown": {
       "2023-03-21": 19,
@@ -42,7 +42,7 @@
     "time": 667,
     "timeDay": 614,
     "timeWeek": 723,
-    "timeMonth": 1166,
+    "timeMonth": 1177,
     "timeYear": 676,
     "dailyMinutesDown": {
       "2023-07-11": 305,
@@ -68,7 +68,7 @@
     "time": 1116,
     "timeDay": 912,
     "timeWeek": 1066,
-    "timeMonth": 1063,
+    "timeMonth": 1066,
     "timeYear": 1120,
     "dailyMinutesDown": {
       "2023-05-25": 67,
@@ -82,9 +82,9 @@
     "slug": "chat-genie-client-api",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "62.85%",
-    "uptimeWeek": "67.31%",
-    "uptimeMonth": "92.48%",
+    "uptimeDay": "63.52%",
+    "uptimeWeek": "67.18%",
+    "uptimeMonth": "92.45%",
     "uptimeYear": "99.37%",
     "time": 301,
     "timeDay": 330,
@@ -92,13 +92,13 @@
     "timeMonth": 284,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-07-30": 534,
+      "2023-07-30": 524,
       "2023-07-29": 413,
       "2023-07-28": 758,
       "2023-07-27": 486,
       "2023-07-26": 505,
       "2023-07-25": 565,
-      "2023-07-24": 34
+      "2023-07-24": 56
     }
   }
 ]
