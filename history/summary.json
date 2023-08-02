@@ -42,7 +42,7 @@
     "time": 668,
     "timeDay": 866,
     "timeWeek": 753,
-    "timeMonth": 1050,
+    "timeMonth": 1023,
     "timeYear": 676,
     "dailyMinutesDown": {
       "2023-07-11": 305,
@@ -82,9 +82,9 @@
     "slug": "chat-genie-client-api",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "36.53%",
-    "uptimeWeek": "64.20%",
-    "uptimeMonth": "91.76%",
+    "uptimeDay": "42.33%",
+    "uptimeWeek": "64.10%",
+    "uptimeMonth": "91.74%",
     "uptimeYear": "99.31%",
     "time": 301,
     "timeDay": 371,
@@ -92,12 +92,12 @@
     "timeMonth": 288,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-08-01": 913,
+      "2023-08-01": 904,
       "2023-07-31": 664,
       "2023-07-30": 524,
       "2023-07-29": 413,
       "2023-07-28": 758,
-      "2023-07-27": 334
+      "2023-07-27": 354
     }
   }
 ]
