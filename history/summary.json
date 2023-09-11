@@ -11,10 +11,10 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.72%",
     "time": 618,
-    "timeDay": 660,
-    "timeWeek": 583,
-    "timeMonth": 548,
-    "timeYear": 632,
+    "timeDay": 739,
+    "timeWeek": 594,
+    "timeMonth": 551,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2023-08-29": 48,
       "2023-03-21": 19,
@@ -40,10 +40,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.27%",
-    "time": 669,
-    "timeDay": 884,
-    "timeWeek": 726,
-    "timeMonth": 750,
+    "time": 670,
+    "timeDay": 667,
+    "timeWeek": 696,
+    "timeMonth": 737,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2023-08-29": 48,
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1104,
-    "timeDay": 1140,
-    "timeWeek": 1062,
-    "timeMonth": 1017,
+    "timeDay": 1311,
+    "timeWeek": 1090,
+    "timeMonth": 1021,
     "timeYear": 1107,
     "dailyMinutesDown": {
       "2023-05-25": 67
@@ -84,23 +84,23 @@
     "slug": "chat-genie-client-api",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "57.53%",
-    "uptimeWeek": "66.34%",
-    "uptimeMonth": "92.25%",
+    "uptimeDay": "63.34%",
+    "uptimeWeek": "66.23%",
+    "uptimeMonth": "92.23%",
     "uptimeYear": "99.35%",
     "time": 301,
-    "timeDay": 297,
+    "timeDay": 292,
     "timeWeek": 271,
     "timeMonth": 308,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-09-10": 582,
+      "2023-09-10": 573,
       "2023-09-09": 496,
       "2023-09-08": 571,
       "2023-09-07": 474,
       "2023-09-06": 605,
       "2023-09-05": 635,
-      "2023-09-04": 36
+      "2023-09-04": 57
     }
   }
 ]
