@@ -26,8 +26,7 @@
       "2022-12-13": 441,
       "2022-12-06": 59,
       "2022-10-23": 479,
-      "2022-10-22": 74,
-      "2022-10-21": 31
+      "2022-10-22": 74
     }
   },
   {
@@ -87,23 +86,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-genie-client-api",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "67.06%",
-    "uptimeWeek": "67.74%",
-    "uptimeMonth": "92.58%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.74%",
+    "uptimeDay": "67.74%",
+    "uptimeWeek": "67.20%",
+    "uptimeMonth": "92.45%",
+    "uptimeYear": "99.37%",
     "time": 298,
     "timeDay": 254,
     "timeWeek": 265,
     "timeMonth": 291,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-10-20": 475,
+      "2023-10-20": 466,
       "2023-10-19": 608,
       "2023-10-18": 560,
       "2023-10-17": 694,
       "2023-10-16": 718,
-      "2023-10-15": 207
+      "2023-10-15": 270
     }
   }
 ]
