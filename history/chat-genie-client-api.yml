@@ -1,7 +1,7 @@
 url: $CHATGENIE_CLIENT_API
-status: up
-code: 200
-responseTime: 265
-lastUpdated: 2024-01-20T03:26:04.591Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-01-20T03:54:35.876Z
 startTime: 2021-05-13T07:19:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
