@@ -37,7 +37,7 @@
     "timeDay": 709,
     "timeWeek": 2310,
     "timeMonth": 1570,
-    "timeYear": 990,
+    "timeYear": 991,
     "dailyMinutesDown": {
       "2024-06-04": 61,
       "2024-05-30": 19,
@@ -83,7 +83,7 @@
     "slug": "chat-genie-client-api",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "65.53%",
+    "uptimeDay": "66.83%",
     "uptimeWeek": "64.46%",
     "uptimeMonth": "91.82%",
     "uptimeYear": "99.32%",
