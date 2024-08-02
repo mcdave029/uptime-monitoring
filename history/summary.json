@@ -74,12 +74,12 @@
     "url": "$CHATGENIE_CLIENT_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-genie-client-api",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "66.29%",
-    "uptimeWeek": "51.46%",
-    "uptimeMonth": "87.62%",
-    "uptimeYear": "98.97%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "66.28%",
+    "uptimeWeek": "51.49%",
+    "uptimeMonth": "87.92%",
+    "uptimeYear": "98.99%",
     "time": 272,
     "timeDay": 252,
     "timeWeek": 283,
@@ -93,8 +93,7 @@
       "2024-07-29": 577,
       "2024-07-28": 463,
       "2024-07-27": 556,
-      "2024-07-26": 517,
-      "2024-07-25": 38
+      "2024-07-26": 421
     }
   }
 ]
