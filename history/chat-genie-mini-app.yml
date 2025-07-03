@@ -1,4 +1,4 @@
-url: $CHATGENIE_BOT
+url: $CHATGENIE_BOT_SKIP
 status: up
 code: 200
 responseTime: 771
