@@ -11,10 +11,10 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.91%",
     "time": 958,
-    "timeDay": 919,
-    "timeWeek": 657,
-    "timeMonth": 669,
-    "timeYear": 928,
+    "timeDay": 748,
+    "timeWeek": 658,
+    "timeMonth": 679,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2025-11-18": 123,
       "2025-09-01": 172,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.92%",
-    "time": 835,
-    "timeDay": 618,
-    "timeWeek": 544,
-    "timeMonth": 547,
-    "timeYear": 791,
+    "time": 836,
+    "timeDay": 988,
+    "timeWeek": 615,
+    "timeMonth": 559,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2025-11-18": 123,
       "2025-10-02": 19,
@@ -58,10 +58,10 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.97%",
     "time": 1253,
-    "timeDay": 1139,
-    "timeWeek": 1127,
-    "timeMonth": 1089,
-    "timeYear": 1299,
+    "timeDay": 1222,
+    "timeWeek": 1156,
+    "timeMonth": 1096,
+    "timeYear": 1300,
     "dailyMinutesDown": {
       "2025-11-18": 106,
       "2025-05-09": 23,
@@ -74,7 +74,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-genie-client-api",
     "status": "down",
-    "uptime": "77.49%",
+    "uptime": "77.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -85,7 +85,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-02": 112,
+      "2025-12-03": 112,
+      "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -448,8 +449,7 @@
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
-      "2024-12-04": 1440,
-      "2024-12-03": 1440
+      "2024-12-04": 1440
     }
   }
 ]
