@@ -11,10 +11,10 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.93%",
     "time": 964,
-    "timeDay": 795,
-    "timeWeek": 775,
+    "timeDay": 778,
+    "timeWeek": 781,
     "timeMonth": 696,
-    "timeYear": 937,
+    "timeYear": 938,
     "dailyMinutesDown": {
       "2025-11-18": 123,
       "2025-09-01": 172,
@@ -27,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-genie-mini-app-api",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.94%",
     "time": 835,
-    "timeDay": 593,
-    "timeWeek": 624,
-    "timeMonth": 552,
+    "timeDay": 586,
+    "timeWeek": 635,
+    "timeMonth": 554,
     "timeYear": 793,
     "dailyMinutesDown": {
       "2025-11-18": 123,
@@ -56,9 +56,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.96%",
     "time": 1255,
-    "timeDay": 1222,
-    "timeWeek": 1186,
-    "timeMonth": 1105,
+    "timeDay": 1226,
+    "timeWeek": 1224,
+    "timeMonth": 1112,
     "timeYear": 1299,
     "dailyMinutesDown": {
       "2025-12-05": 30,
@@ -73,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-genie-client-api",
     "status": "down",
-    "uptime": "76.94%",
+    "uptime": "76.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -84,7 +84,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-14": 123,
+      "2025-12-15": 120,
+      "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -447,8 +448,7 @@
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
-      "2024-12-16": 1440,
-      "2024-12-15": 1440
+      "2024-12-16": 1440
     }
   }
 ]
