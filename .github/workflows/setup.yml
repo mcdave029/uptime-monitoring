@@ -16,11 +16,6 @@
 
 name: Setup CI
 on:
-  push:
-    paths:
-      - ".upptimerc.yml"
-  repository_dispatch:
-    types: [setup]
   workflow_dispatch:
 jobs:
   release:
